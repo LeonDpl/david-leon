@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 # Streamlit Timeline Component Example
 
 import streamlit as st
