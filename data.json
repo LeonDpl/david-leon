@@ -1,0 +1,43 @@
+{
+  "title": {
+    "media": {
+      "url": "",
+      "caption": "David Leon",
+      "credit": ""
+    },
+    "text": {
+      "headline": "David Leon - Design Engineer / Project Leader / Technical manager",
+      "text": "Predictive Maintenance, Innovation, Industry"
+    }
+  },
+  "events": [
+    {
+      "media": {
+        "url": "",
+        "caption": "Event 0 media caption"
+      },
+      "start_date": {
+        "year": "2013",
+        "month": "3"
+      },
+      "text": {
+        "headline": "Internship - Predict - Design Engineer",
+        "text": "<h1>ExPerRE : \"Exploitation Performante des Réseaux Electriques\"</h1><br/>Electrical network data and model based monitoring and health assessment."
+      }
+    },
+    {
+      "media": {
+        "url": "",
+        "caption": "Predict - Design Engineer"
+      },
+      "start_date": {
+        "year": "2013",
+        "month": "9"
+      },
+      "text": {
+        "headline": "Predict - Design Engineer",
+        "text": "<p>Lorem ipsum.</p><p>Sit dolor amen</p>"
+      }
+    }
+  ]
+}
