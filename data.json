@@ -6,7 +6,7 @@
       "credit": ""
     },
     "text": {
-      "headline": "David Leon - Design Engineer / Project Leader / Technical manager",
+      "headline": "David Leon<br/> - <br/> Design Engineer / Project Leader / Technical manager",
       "text": "Predictive Maintenance, Innovation, Industry"
     }
   },
@@ -14,30 +14,120 @@
     {
       "media": {
         "url": "",
-        "caption": "Event 0 media caption"
+        "caption": "In brief"
+      },
+      "start_date": {
+        "year": "1991",
+        "month": "3",
+        "day": "1"
+      },
+      "text": {
+        "headline": "In brief",
+        "text": "<b>Personnal</b><p>30 years old</p><p>Married, 3 children</p><p>French</p><b>Professionnal</b><p>Engineer in the predicitive maintenance field since 2013</p><p>Experienced in R&T and Industrial applications</p>"
+      },
+      "group": "-"
+    },
+    {
+      "media": {
+        "url": "https://newsroom.ionis-group.com/wp-content/uploads/2018/12/ipsa-logo-quadri.png",
+        "caption": "",
+        "link": "https://www.ipsa.fr/"
+      },
+      "start_date": {
+        "year": "2008",
+        "month": "9"
+      },
+      "end_date": {
+        "year": "2013",
+        "month": "7"
+      },
+      "text": {
+        "headline": "Engineering degree in aerospace systems",
+        "text": "<p><b>IPSA : \"Institut Polytechnique des Sciences Avancées\"</b></p><p>5 years Engineering School</p><p><ul><li>Space System Design</li><li>Mechatronic systems</li></ul>"
+      },
+      "group": "-"
+    },
+    {
+      "media": {
+        "url": "<iframe src=\"https://drive.google.com/file/d/11JsDkjSAeFUUfAs6l0r-Osojf_ZNCt-t/preview\"></iframe>",
+        "caption": "ExPerRE results, sep-2015"
       },
       "start_date": {
         "year": "2013",
         "month": "3"
       },
       "text": {
-        "headline": "Internship - Predict - Design Engineer",
-        "text": "<h1>ExPerRE : \"Exploitation Performante des Réseaux Electriques\"</h1><br/>Electrical network data and model based monitoring and health assessment."
-      }
+        "headline": "ExPerRE : \"Exploitation Performante des Réseaux Electriques\"",
+        "text": "<b>PREDICT, Internship, Design engineer</b><br/>Coupling electrical network simulation and real data to <ul><li>Improve electrical network reliability</li><li>Improve electrical network reliability</li><li>Optimize exploitation</li><li>Adjust maintenance schedule</li><li>Assist experts</li></ul>"
+      },
+      "group": "R&T"
     },
     {
       "media": {
-        "url": "",
-        "caption": "Predict - Design Engineer"
+        "url": "https://drive.google.com/uc?id=1hG0iBUu0qL5WbP7wAXmpco2Fqf9F3jDr",
+        "caption": ""
       },
       "start_date": {
         "year": "2013",
         "month": "9"
       },
+      "end_date": "#NOW#",
+      "group": "-",
       "text": {
-        "headline": "Predict - Design Engineer",
-        "text": "<p>Lorem ipsum.</p><p>Sit dolor amen</p>"
+        "headline": "Design Engineer",
+        "text": "<p><b>PREDICT</b></p><p><ul><li>Design and implementation of algorithmic sequences for systems and fleet of systems monitoring, early detection and health monitoring</li><li>Functionnal and dysfunctionnal analysis (AMDEC, HAZOP)</li><li>Platform installation, configuration and updates</li></ul></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://drive.google.com/uc?id=1hG0iBUu0qL5WbP7wAXmpco2Fqf9F3jDr",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2019",
+        "month": "8"
+      },
+      "end_date": "#NOW#",
+      "group": "-",
+      "text": {
+        "headline": "Instructor",
+        "text": "<p><b>PREDICT</b></p><p><ul><li>Customer physical and/or virtual instructor (up to 5 persons, french and english spoken)</li><li>Internal physical and/or virtual instructor</li></ul></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://drive.google.com/uc?id=1hG0iBUu0qL5WbP7wAXmpco2Fqf9F3jDr",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2019",
+        "month": "10"
+      },
+      "end_date": "#NOW#",
+      "group": "-",
+      "text": {
+        "headline": "Project leader",
+        "text": "<p><b>PREDICT</b></p><p><ul><li>Proof of Concepts projects design and follow-up</li><li>Leading 1 to 3 persons teams (Engineers and technicians)</li><li>30k to 100k projects, 3 to 6 months length</li></ul></p>"
+      }
+    },
+    {
+      "media": {
+        "url": "https://drive.google.com/uc?id=1hG0iBUu0qL5WbP7wAXmpco2Fqf9F3jDr",
+        "caption": ""
+      },
+      "start_date": {
+        "year": "2021",
+        "month": "3"
+      },
+      "end_date": "#NOW#",
+      "group": "-",
+      "text": {
+        "headline": "Technical advisor",
+        "text": "<p><b>PREDICT</b></p><p><ul><li>Project technical advisor</li><li>Pre-sale and ongoing projects</li></ul></p>"
       }
     }
   ]
 }
+
+
+
